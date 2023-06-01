@@ -1,5 +1,5 @@
 # Intelligent Computation enabled Smartphone Imaging for Oximetry and Clinical Diagnosis of Cardiovascular Disease (ICSO)
-A real-time, auxiliary-free system exploring cyanosis and local oxygen concentration as a convenient and rapid method for clinical diagnosis, including monitoring cardiovascular disease and anemia. 
+A real-time, auxiliary-free system exploring cyanosis and local oxygen concentration as a convenient and rapid method for clinical diagnosis, including monitoring cardiovascular disease and anemia. <br>
 See our manuscript and method tutorial for more details.
 ## Quick start
 You can simply and quickly run and use the demo test of our models including oxygen saturation measurement, disease diagnosis and skin tone-based correction. And we supply some de-identified images for the demo test.
@@ -95,5 +95,5 @@ Add dependencies
     implementation 'org.tensorflow:tensorflow-lite-metadata:0.1.0'
     implementation 'org.tensorflow:tensorflow-lite-gpu:2.3.0'
 ```
-* We encourage users to customize the project. Just modifiy ```StartActivity.java``` and ```activity_start.xml```
+* We encourage users to customize the project. Just modifiy ```StartActivity.java``` and ```activity_start.xml```<br>
 Now you can use the app function in your project.
