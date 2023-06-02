@@ -21,7 +21,7 @@ You can quickly run the demo test of our models as follows: e.g. run demo_oxy_me
 ```
 python demo_oxy_measurement.py
 ```
-Moreover, you can simply run the demo using integrated development enviroment (IDE) "Pycharm (JetBrains, recommendation version --- PyCharm 2020.3.3 (Community Edition) for Windows)" as follows: 
+Moreover, you can also simply run the demo using integrated development enviroment (IDE) "Pycharm (JetBrains, recommendation version --- PyCharm 2020.3.3 (Community Edition) for Windows)" as follows: 
 ```
 Open -> "Demo" -> Run demo_XXX.py
 ```
@@ -50,8 +50,10 @@ Now you can use the app in your smartphone (please ensure the device is connecte
 <activity android:name=".Clinic_Oxy_Activity" />
 <activity android:name=".CatchrgbActivity" />
 ```
-And import ```src/main/java/com/demo/icso/Bean``` and ```src/main/java/com/demo/icso/Util``` into your project (Note: import path same as above), these include necessary tools to run the app.
-2. Import files ```src/main/res/layout/activity_clinic_oxy.xml```, ```src/main/res/layout/activity_rgb.xml``` and ```src/main/res/layout/activity_start.xml``` into your project: ```src/main/res/layout```
+And import ```src/main/java/com/demo/icso/Bean``` and ```src/main/java/com/demo/icso/Util``` into your project (Note: import path same as above), these include necessary tools to run the app.<br>
+
+2. Import files ```src/main/res/layout/activity_clinic_oxy.xml```, ```src/main/res/layout/activity_rgb.xml``` and ```src/main/res/layout/activity_start.xml``` into your project: ```src/main/res/layout```<br>
+
 3. Import file ```src/main/java/com/demo/icso/StartActivity.java``` into your project (same as ```part 1```) for starting activity, and add register code of activity into your ```AndroidManifest.xml ``` as follows:
 ```
 <activity
