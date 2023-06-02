@@ -21,7 +21,7 @@ You can quickly run the demo test of our models as follows: e.g. run demo_oxy_me
 ```
 python demo_oxy_measurement.py
 ```
-Moreover, you can simply run the demo using integrated development enviroment (IDE) "Pycharm (JetBrains, recommendation version --- PyCharm 2020.3.3 (Community Edition) for Windows)" as follows: 
+Moreover, you can also simply run the demo using integrated development enviroment (IDE) "Pycharm (JetBrains, recommendation version --- PyCharm 2020.3.3 (Community Edition) for Windows)" as follows: 
 ```
 Open -> "Demo" -> Run demo_XXX.py
 ```
