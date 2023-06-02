@@ -815,6 +815,7 @@ public class CatchrgbActivity extends Activity implements OnClickListener, Popup
                             pointDS.add(new PointD(pointColor.x, pointColor.y_green/ColorAvgUtil.avg_V));
                     }
                     Toast.makeText(this, "demo", Toast.LENGTH_SHORT).show();
+                    pointIntent = new Intent(this, LinearRegressionUtil.class);
                     pointIntent.putExtra("point", (Serializable) pointDS);
                     calibration_check = true;
                 } else if (pointDS.size() < 3) {
