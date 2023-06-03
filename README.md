@@ -91,7 +91,7 @@ Import ```src/main/res/xml/file_paths.xml``` into path ```src/main/res/xml``` in
 ```
 5. Import the trained tensorflow model ```src/main/ml/clinic_model_oxy.tflite``` into path ```src/main/ml``` in your project.<br>
 Import menu ```src/main/res/menu/my_menu.xml``` into path ```src/main/res/menu``` in your project.<br>
-Add dependencies
+* Add dependencies
 ```
     implementation 'org.tensorflow:tensorflow-lite-support:0.1.0'
     implementation 'org.tensorflow:tensorflow-lite-metadata:0.1.0'
