@@ -43,7 +43,7 @@ Now you can use the app in your smartphone (please ensure the device is connecte
 * Click button "OXYGEN_SATURATION_MEASUREMENT" to perform oxygen saturation measurement.
 * Click button "SBC_SAMPLE_MEASUREMENT" to perform sample measurement.<br>
 * See ```./Sample``` for corresponding test images.
-* We encourage users to add customized model and function into the project. Just import your trained tensorflow model ```XXX.tflite``` into path ```src/main/ml```, and run inference.
+* We encourage users to add customized model and function into the project. Just import your trained tensorflow model ```XXX.tflite``` into the path ```src/main/ml```, and run inference.
 ### Usage the app in your project
 1. Import files ```src/main/java/com/demo/icso/Clinic_Oxy_Activity.java``` and  ```src/main/java/com/demo/icso/CatchrgbActivity.java``` into your project for oxygen saturation measurement and sample measurement respectively, and add register code of activities into your ```AndroidManifest.xml ``` as follows:
 ```
