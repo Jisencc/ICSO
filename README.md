@@ -2,7 +2,8 @@
 A real-time, auxiliary-free system exploring cyanosis and local oxygen concentration as a convenient and rapid method for clinical diagnosis, including monitoring cardiovascular disease and anemia. <br>
 See our manuscript and method tutorial for more details.
 ## Quick start
-You can simply and quickly run and use the demo test of our models including oxygen saturation measurement, disease diagnosis and skin tone-based correction. And we supply some de-identified images for the demo test.
+You can simply and quickly run and use the demo test of our models including oxygen saturation measurement, disease diagnosis and skin tone-based correction. And we supply some de-identified images for the demo test.<br>
+* 2024.08 - Update: For ease of installation, we upload the app package into this [link](https://pan.baidu.com/s/1pzEaQfUUSR-0uzFgHPLMdw) (key: 5597). You can now install the app by downloading the installation package (note: if the package is not supported by your current smartphone, we recommend you to build it from the source code guided by the tutorial here).
 ### Requirements
 Python --- 3.8.6
 
