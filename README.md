@@ -1,7 +1,6 @@
 # Intelligent Computation enabled Smartphone Imaging for Oximetry and Clinical Diagnosis of Cardiovascular Disease (ICSO)
 A real-time, auxiliary-free system exploring cyanosis and local oxygen concentration as a convenient and rapid method for clinical diagnosis, including monitoring cardiovascular disease and anemia. <br>
-DOI: <br>
-See our manuscript and method tutorial for more details.
+See our manuscript and method tutorial for more details. DOI: <br>
 ## Quick start
 You can simply and quickly run and use the demo test of our models including oxygen saturation measurement, disease diagnosis and skin tone-based correction (See Python demo below). And we supply some de-identified images for the demo test.<br>
 * 2024.08 - Update: For ease of installation, we upload the app package (and app instruction & tutorial) into this [link](https://pan.baidu.com/s/1pnBrWSkrrsQIlFAOCgeIHg) (key: hzai). You can now install the app by downloading the installation package (note: if the package is not supported by your current smartphone, we recommend you to build it from the source code guided by the tutorial here).
